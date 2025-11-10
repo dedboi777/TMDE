@@ -1,6 +1,8 @@
 # TMDE (Tamer's Minimal Disk Emulator)
 This is a minimal custom disk emulator, made to implement my theoretical skills in low level programming.
 
+The C libraries used in this project are built in to Windows, BSD, and most Linux distributions.
+
 # Requirements
 1- Must use exactly 512-byte blocks in all operations.   
 
