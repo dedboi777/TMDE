@@ -15,4 +15,5 @@ features he/she would like to experiment(with the required
 parameters) in "command.c", and then call "make" followed 
 by "./command.com" in the terminal.
 
+# Thanks
 Thank you for your time and care :)
