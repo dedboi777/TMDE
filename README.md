@@ -12,14 +12,14 @@ The C libraries used in this project are built in to Windows, BSD, and most Linu
 
 4- Must follow a block design.
 
-5- Must use the error codes provided in “os.h”.
+5- Must use the error codes provided in “Head.h”.
 
 # Execution
 All the functions are executed in the "execution" directory.
 And the user only has to write the function calls of the
 features he/she would like to experiment(with the required 
-parameters) in "command.c", and then call "make" followed  
-by "./command.com" in the terminal.
+parameters) in "execute.c", and then call "make" followed  
+by "./execute.com" in the terminal.
 
 # Thanks
 Thank you for your time and care :)
